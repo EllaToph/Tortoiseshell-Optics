@@ -1,0 +1,26 @@
+html{
+  font-size: 18px;
+  background-color: white;
+}
+body{
+  font-family: Helvetica,sans-serif;
+  width: auto;
+  margin: 0 0 0 0;
+}
+.main-banner{
+  margin: 1rem;
+  background-color: cadetblue;
+  width: 960px;
+  background-image: image(./images/glasses-bg.png);
+}
+.logo{
+  margin: 1.5rem 1rem 1rem 2rem;
+}
+nav ul{
+  display: flex;
+  margin: 1rem 2rem 1rem 2rem;
+  color: white;
+}
+.main2{
+  background-color: white;
+}
